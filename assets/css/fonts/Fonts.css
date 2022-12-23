@@ -1,0 +1,86 @@
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Regular'), local('OracleSans_Rg'), 
+ url(OracleSans_Rg.ttf) format('truetype'),
+ url('OracleSans-Rg.woff2') format('woff2');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Bold'), local('OracleSans_Bd'), 
+ url(OracleSans_Bd.ttf) format('truetype'),
+ url('OracleSans-Bd.woff2') format('woff2');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Light'), local('OracleSans_Lt'), 
+ url(OracleSans_Lt.ttf) format('truetype'),
+ url('OracleSans-Lt.woff2') format('woff2');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Semi Bold'), local('OracleSans_SBd'), 
+ url(OracleSans_SBd.ttf) format('truetype'),
+ url('OracleSans-SBd.woff2') format('woff2');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Extra Bold'), local('OracleSans_XBd'), 
+ url(OracleSans_XBd.ttf) format('truetype'),
+ url('OracleSans-XBd.woff2') format('woff2');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Italic'), local('OracleSans_It'), 
+ url(OracleSans_It.ttf) format('truetype'),
+ url('OracleSans-It.woff2') format('woff2');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Bold Italic'), local('OracleSans_BdIt'), 
+ url(OracleSans_BdIt.ttf) format('truetype'),
+ url('OracleSans-BdIt.woff2') format('woff2');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Light Italic'), local('OracleSans_LtIt'), 
+ url(OracleSans_LtIt.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Semi Bold Italic'), local('OracleSans_SBdIt'), 
+ url(OracleSans_SBdIt.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Ultra Light'), local('OracleSans_ULt'), 
+ url(OracleSans_ULt.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Ultra Light Italic'), local('OracleSans_ULtIt'), 
+ url(OracleSans_ULtIt.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Semi Bold'), local('OracleSans_SBdIt'), 
+ url(OracleSans_SBdIt.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Oracle Sans';
+ font-style: normal;
+ src: local('Oracle Sans Extra Bold Italic'), local('OracleSans_XBdIt'), 
+ url(OracleSans_XBdIt.ttf) format('truetype');
+}
+
